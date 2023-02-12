@@ -10,6 +10,5 @@ Estão **disponiveis** os **links** para os **outros repositórios (PlatSis e AM
 
 ### Outros repositórios:
 
-PlatSis - [https://github.com/ContaEscola/TESP-PSI-2-Ano-1-Semestre-PLSI-SIS](https://github.com/ContaEscola/TESP-PSI-2-Ano-1-Semestre-PLSI-SIS)
-
-AMSI - [https://github.com/ContaEscola/TESP-PSI-2-Ano-1-Semestre-AMSI](https://github.com/ContaEscola/TESP-PSI-2-Ano-1-Semestre-AMSI)
+- PlatSis - [https://github.com/ContaEscola/TESP-PSI-2-Ano-1-Semestre-PLSI-SIS](https://github.com/ContaEscola/TESP-PSI-2-Ano-1-Semestre-PLSI-SIS)
+- AMSI - [https://github.com/ContaEscola/TESP-PSI-2-Ano-1-Semestre-AMSI](https://github.com/ContaEscola/TESP-PSI-2-Ano-1-Semestre-AMSI)
